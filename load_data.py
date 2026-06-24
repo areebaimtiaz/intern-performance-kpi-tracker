@@ -1,7 +1,5 @@
 """
-load_data.py
-------------
-Step 2: loads the CLEANED CSV (interns_cleaned.csv) into a SQLite database.
+ loads the CLEANED CSV (interns_cleaned.csv) into a SQLite database.
 Run this every time you have a new month's cleaned export.
 
 Usage:
