@@ -1,6 +1,5 @@
 """
-generate_report.py
--------------------
+
 Builds the monthly KPI report as a formatted Excel workbook.
 Reads from the 'interns_cleaned' table inside interns.db.
 
