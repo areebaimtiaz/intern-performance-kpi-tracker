@@ -1,8 +1,8 @@
 """
 generate_report.py
 -------------------
-Step 2 of the automation: builds the monthly KPI report as a formatted
-Excel workbook, ready to email/share with supervisors.
+ builds the monthly KPI report as a formatted
+Excel workbook
 
 Run this AFTER load_data.py has loaded the latest export.
 
